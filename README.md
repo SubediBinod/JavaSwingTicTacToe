@@ -4,7 +4,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Ja
 
 ## Screenshots
 -player X got the first turn
-![X Turn Screenshot](https://github.com/SubediBinod/JavaSwingPractice/assets/105643264/f809d6ff-0bdb-4c0f-835d-04a23c1493f6.png?raw=true&width=400)
+![X Turn Screenshot](https://github.com/SubediBinod/JavaSwingPractice/assets/105643264/f809d6ff-0bdb-4c0f-835d-04a23c1493f6)
 
 
 
