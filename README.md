@@ -4,7 +4,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Ja
 
 ## Screenshots
 -player X got the first turn
-![xturn](https://github.com/SubediBinod/JavaSwingPractice/assets/105643264/f809d6ff-0bdb-4c0f-835d-04a23c1493f6)
+![X Turn Screenshot](https://github.com/SubediBinod/JavaSwingPractice/assets/105643264/f809d6ff-0bdb-4c0f-835d-04a23c1493f6.png?raw=true&width=400)
 
 
 
@@ -59,7 +59,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Ja
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred IDE.
-3. Compile and run the `TicTacToeGame.java` file to start the game.
+3. Compile and run the `Main.java` file to start the game.
 
 
 
